@@ -1,4 +1,5 @@
 # SIMP
+
 -- SELECT * FROM COMMAND
 
 -- query the address, starttime and endtime of the servicepoints in the same city as userid 5   
